@@ -1,5 +1,6 @@
 <div align="center">
-<h1>Nyphs Menu Template</h1>
+  
+# Nyphs Menu Template
 
 [Nyphs Menu Template](https://github.com/nyphrux/Nyphs-Menu-Template) is a mod menu template for Gorilla Tag with custom categories and the maximum amount of customization possible.
 
@@ -29,4 +30,5 @@ However, I do request that credits are made where possible.
 - Edit the entire menu within `Menu/Main.cs`
 - Change themes and fonts in `Mods/Settings.cs`
 - Build your menu by using `Ctrl` + `Shift` + `B` & the menu will be in your `BepInEx/plugins` folder
+
 </div>
