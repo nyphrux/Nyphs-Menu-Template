@@ -1,6 +1,6 @@
 <div align="center">
   
-# Nyphs Menu Template
+# Nyphs Menu Template - V1.0.0
 
 [Nyphs Menu Template](https://github.com/nyphrux/Nyphs-Menu-Template) is a mod menu template for Gorilla Tag with custom categories and the maximum amount of customization possible.
 
